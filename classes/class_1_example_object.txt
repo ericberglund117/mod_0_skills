@@ -1,0 +1,13 @@
+Instance: Chipotle burrito
+
+attributes:
+ingredients = ["tortilla","beans","rice","steak", "salsa", "cheese", "lettuce"]
+isVegan = "false"
+price = 8.75
+presentation = "basket"
+
+methods:
+addIngredient: ingredients = "guacamole"
+makeVegan: isVegan = "true"
+changePrice: price = 10.23
+changePresentation: presentation = "bag"
