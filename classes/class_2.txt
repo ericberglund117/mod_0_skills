@@ -11,3 +11,4 @@ removeFoodItem (remove food item from menu)
 addPage (add page to menu)
 changeFoodPrice (change food price)
 chooseName (change restaurant name)
+ 
