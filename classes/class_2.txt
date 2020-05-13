@@ -1,0 +1,13 @@
+class Menu
+
+attributes:
+foodItems (array)
+pages (integer)
+foodPrice (float)
+restaurantName (string)
+
+methods:
+removeFoodItem (remove food item from menu)
+addPage (add page to menu)
+changeFoodPrice (change food price)
+chooseNameFont (change font of restaurant name)
