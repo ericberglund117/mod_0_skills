@@ -1,0 +1,13 @@
+Instance: Amici's Italian restaurant
+
+attributes:
+foodItems = ["spaghetti", "pizza", "rigatoni", "salads", "meatball sandwich", "Italian sub", "canoli"]
+pages = 2
+foodPrice = spaghetti = 10.50
+restaurantName = "Amici's Pizzeria & Italian"
+
+methods:
+removeFoodItem: foodItems = "pizza"
+addPage: pages = 3
+changeFoodPrice: foodPrice = 9.50
+chooseNameFont: restaurantName ="Amici's Italian"
