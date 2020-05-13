@@ -10,4 +10,4 @@ methods:
 removeFoodItem (remove food item from menu)
 addPage (add page to menu)
 changeFoodPrice (change food price)
-chooseNameFont (change font of restaurant name)
+chooseName (change restaurant name)
