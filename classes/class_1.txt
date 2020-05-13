@@ -6,7 +6,7 @@ isVegan (boolean)
 price (float)
 presentation (string)
 
-methods:
+methods: 
 addIngredient (add ingredient)
 makeVegan (change isVegan to true)
 changePrice (change food price value)
