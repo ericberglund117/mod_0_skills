@@ -1,0 +1,13 @@
+class Food
+
+attributes:
+ingredients (array)
+isVegan (boolean)
+price (float)
+presentation (string)
+
+methods:
+addIngredient (add ingredient)
+makeVegan (change isVegan to true)
+changePrice (change food price value)
+changePresentation (change presentation of food)
