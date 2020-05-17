@@ -13,4 +13,4 @@ changePrice: price = 10.23
 changePresentation: presentation = "bag"
 
 updated array:
-ingredients = ["tortilla", "beans", "rice", "salsa", "guacamole"]
+ingredients = ["tortilla", "beans", "rice", "salsa", "lettuce", "guacamole"]
